@@ -1,0 +1,1 @@
+Unzip this file. In your GitHub repository, open the cailin-portfolio folder, choose Add file > Upload files, and upload the four extracted website files to replace their existing versions. Commit changes. Do not replace the top-level index.html redirect. No assets need uploading.
