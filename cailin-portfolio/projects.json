@@ -1,0 +1,76 @@
+[
+  {
+    "id": "portfolio0",
+    "title": "A little wild",
+    "category": "Art & illustration",
+    "description": "",
+    "image": "assets/portfolio-0.jpg",
+    "alt": "A little wild \u2014 work by Cailin Osborne"
+  },
+  {
+    "id": 6,
+    "title": "Taking flight",
+    "category": "Motion",
+    "description": "A paper-textured animation of birds and mountains.",
+    "image": "assets/birds-poster.jpg",
+    "video": "assets/birds.mp4",
+    "alt": "Animated birds flying over colorful mountains"
+  },
+  {
+    "id": "portfolio1",
+    "title": "Somewhere magical",
+    "category": "Art & illustration",
+    "description": "",
+    "image": "assets/portfolio-1.jpg",
+    "alt": "Somewhere magical \u2014 work by Cailin Osborne"
+  },
+  {
+    "id": "portfolio2",
+    "title": "A quiet moment",
+    "category": "Art & illustration",
+    "description": "",
+    "image": "assets/portfolio-2.jpg",
+    "alt": "A quiet moment \u2014 work by Cailin Osborne"
+  },
+  {
+    "id": "portfolio3",
+    "title": "Into the valley",
+    "category": "Art & illustration",
+    "description": "",
+    "image": "assets/portfolio-3.jpg",
+    "alt": "Into the valley \u2014 work by Cailin Osborne"
+  },
+  {
+    "id": "plaid-characters",
+    "title": "Colorful companions",
+    "category": "Illustration",
+    "description": "",
+    "image": "assets/plaid-characters.jpg",
+    "alt": "Two illustrated children in colorful plaid coats and boots"
+  },
+  {
+    "id": "portfolio4",
+    "title": "Above & below",
+    "category": "Art & illustration",
+    "description": "",
+    "image": "assets/portfolio-4.jpg",
+    "alt": "Above & below \u2014 work by Cailin Osborne"
+  },
+  {
+    "id": "portfolio5",
+    "title": "A moment in the studio",
+    "category": "Art & illustration",
+    "description": "",
+    "image": "assets/portfolio-5.jpg",
+    "alt": "A moment in the studio \u2014 work by Cailin Osborne"
+  },
+  {
+    "id": 7,
+    "title": "A little growing experiment",
+    "category": "Motion",
+    "description": "A playful flower animation with a tactile paper texture.",
+    "image": "assets/green-animation-poster.jpg",
+    "video": "assets/green-animation.mp4",
+    "alt": "Animated flowers growing in a green scene"
+  }
+]
